@@ -1,0 +1,10 @@
+/.project
+/backend/runtime/*
+/frontend/runtime/*
+/backend/web/assets/*
+/frontend/web/assets/* 
+!/backend/runtime/blank.html
+!/frontend/runtime/blank.html
+!/backend/web/assets/blank.html
+!/frontend/web/assets/blank.html 
+/vendor/
